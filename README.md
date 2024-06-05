@@ -1,5 +1,6 @@
 Boas vindas ao meu perfil 💙
--Meu nome é Pietra de França
+-Meu nome é Agatha Nunes
+
 -Estou estudando na Chiyo
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
